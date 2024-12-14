@@ -1,4 +1,4 @@
-package Leetcode_day2;
+package Leetcode;
 
 import java.util.Scanner;
 
@@ -15,7 +15,7 @@ public class Evendigits{
 
         // Declare the array
         int[] nums = new int[n];
-
+sc.close();
         // Take input for array elements
         System.out.println("Enter the elements of the array:");
         for (int i = 0; i < n; i++) {
